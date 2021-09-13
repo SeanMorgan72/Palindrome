@@ -1,0 +1,13 @@
+/Users/seanmorgan/repos/PalindromeExercise/PalindromeExercise/PalindromeExercise/bin/Debug/netcoreapp3.1/PalindromeExercise.deps.json
+/Users/seanmorgan/repos/PalindromeExercise/PalindromeExercise/PalindromeExercise/bin/Debug/netcoreapp3.1/PalindromeExercise.runtimeconfig.json
+/Users/seanmorgan/repos/PalindromeExercise/PalindromeExercise/PalindromeExercise/bin/Debug/netcoreapp3.1/PalindromeExercise.runtimeconfig.dev.json
+/Users/seanmorgan/repos/PalindromeExercise/PalindromeExercise/PalindromeExercise/bin/Debug/netcoreapp3.1/PalindromeExercise.dll
+/Users/seanmorgan/repos/PalindromeExercise/PalindromeExercise/PalindromeExercise/bin/Debug/netcoreapp3.1/PalindromeExercise.pdb
+/Users/seanmorgan/repos/PalindromeExercise/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.csproj.AssemblyReference.cache
+/Users/seanmorgan/repos/PalindromeExercise/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorgan/repos/PalindromeExercise/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.AssemblyInfoInputs.cache
+/Users/seanmorgan/repos/PalindromeExercise/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.AssemblyInfo.cs
+/Users/seanmorgan/repos/PalindromeExercise/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.csproj.CoreCompileInputs.cache
+/Users/seanmorgan/repos/PalindromeExercise/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.dll
+/Users/seanmorgan/repos/PalindromeExercise/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.pdb
+/Users/seanmorgan/repos/PalindromeExercise/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.genruntimeconfig.cache
